@@ -2,13 +2,13 @@
     {
     "name":"iphone",
     "price":154,
-    "feature":"true",
+    "featured":false,
      "company":"apple"
     },
       {
             "name":"iphone10",
             "price":1544,
-            "feature":"true",
+            "featured":false,
             "company":"apple"
 
     },
@@ -33,8 +33,8 @@
     },
     {
         
-            "name":"MI20",
+            "name":"mi20",
             "price":15004,
-            "company":"MI"
+            "company":"mi"
     }
 ]
